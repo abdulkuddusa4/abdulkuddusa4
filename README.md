@@ -1,8 +1,8 @@
 # Hey, I'm Md. Shajahan Prodhan! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Shajahan's GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Shajahan's GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulkuddusa4&show_icons=true&theme=tokyonight&hide_border=true" alt="Shajahan's GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkuddusa4&theme=tokyonight&hide_border=true" alt="Shajahan's GitHub Streak" width="400" />
 </p>
 
 I'm a **passionate Backend Developer** from Dhaka, Bangladesh, with **2+ years of experience** architecting **microservices** in **Python** and **Rust**. I specialize in building scalable APIs, AI-powered systems, and high-performance backend services using **Django**, **FastAPI**, and **Actix-web**. My expertise spans **PostgreSQL**, **Docker**, cloud infrastructure, and real-time system design — always engineered for reliability and speed.
