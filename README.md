@@ -62,7 +62,7 @@ I'm open to exciting backend challenges — whether it's a high-throughput API, 
 📍 **Location**: Dhaka, Bangladesh
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/abdulkuddusa4">
     <img src="https://komarev.com/ghpvc/?username=abdulkuddusa4&style=flat-square&color=blue" alt="Profile Views" />
   </a>
 </p>
