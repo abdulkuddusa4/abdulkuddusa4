@@ -1,7 +1,6 @@
 # Hey, I'm Md. Shajahan Prodhan! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulkuddusa4&show_icons=true&theme=tokyonight&hide_border=true" alt="Shajahan's GitHub Stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkuddusa4&theme=tokyonight&hide_border=true" alt="Shajahan's GitHub Streak" width="400" />
 </p>
 
